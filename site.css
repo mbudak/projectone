@@ -161,6 +161,7 @@ button {
     border: 1px solid var(--light-color);
     border-radius: 8px;
     margin-top: 20px;
+    background-color: #fff;
 }
 
 .sharp-items  {

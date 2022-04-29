@@ -36,7 +36,15 @@ p {
     grid-row-end: span 1;
     background-color: #540d6e;
     color: #fff;
+    padding: 10px;
 
+  }
+
+  .sidebar ul li {
+    background-color: var(--light-color);
+    border-radius: 8px;
+    margin: 4px;
+    
   }
   
   /* Generic styles for demo purposes

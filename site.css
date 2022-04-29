@@ -84,6 +84,8 @@ p {
   .search-div {
       width: 200px;
       margin: 0 10px;
+      padding-right: 20px;
+
   }
   input[type="text"] {
     
